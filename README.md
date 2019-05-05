@@ -1,2 +1,2 @@
 # primeiro-kotlin
-Primeiro projeto utilizando Kotlin
+Utilização de arrays em Kotlin
